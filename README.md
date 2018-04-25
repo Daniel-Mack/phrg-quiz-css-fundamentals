@@ -150,3 +150,4 @@ Note: only style `<li>` inside `<ul id="salsa">`, NOT `<li>` elsewhere in the pa
 ???
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/quiz-css-fundamentals'>CSS Fundamentals Quiz</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG CSS Fundamentals Quiz</p>
